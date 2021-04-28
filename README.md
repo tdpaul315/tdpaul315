@@ -1,7 +1,6 @@
 ### Here Is What I'm Working On 👋
 
-<!--
-**tdpaul315/tdpaul315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tiauna-paul-0981ab193/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I DJ for fun! 
--->
+
