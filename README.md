@@ -2,7 +2,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a tutoring booking site using React/Rails 
 - 🌱 I’m currently learning React Native for Mobile App Development 
